@@ -1,5 +1,4 @@
-Click on a badge to see how to embed it in your web page
-badge
+Click on a badge to see how to embed it in your web pagebadge
 https://anaconda.org/conda-forge/labelme/badges/version.svg
 badge
 https://anaconda.org/conda-forge/labelme/badges/latest_release_date.svg
